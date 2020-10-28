@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df23fb7b-e9c0-487a-9e7d-947a13d5d481" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vstdb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rubocop.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tool-versions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe/vstdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vstdb.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vstdb/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/vstdb_test.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vstdb.gemspec" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="sl1p" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1jVHJIDqN5QIvgSiJVahrEAoiOs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df23fb7b-e9c0-487a-9e7d-947a13d5d481" name="Default Changelist" comment="" />
+      <created>1603882267007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603882267007</updated>
+      <workItem from="1603882268541" duration="347000" />
+      <workItem from="1603882618753" duration="131000" />
+      <workItem from="1603882807355" duration="455000" />
+      <workItem from="1603883295992" duration="42000" />
+      <workItem from="1603883368654" duration="544000" />
+      <workItem from="1603883969686" duration="531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2510" height="271" key="GridCell.Tab.0.bottom" timestamp="1603882615465">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2510" height="271" key="GridCell.Tab.0.bottom/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603882615465" />
+    <state width="2510" height="271" key="GridCell.Tab.0.center" timestamp="1603882615463">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2510" height="271" key="GridCell.Tab.0.center/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603882615463" />
+    <state width="2510" height="271" key="GridCell.Tab.0.left" timestamp="1603882615462">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2510" height="271" key="GridCell.Tab.0.left/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603882615462" />
+    <state width="2510" height="271" key="GridCell.Tab.0.right" timestamp="1603882615464">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2510" height="271" key="GridCell.Tab.0.right/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603882615464" />
+    <state x="781" y="350" width="1609" height="722" key="SettingsEditor" timestamp="1603884054160">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state x="781" y="350" width="1609" height="722" key="SettingsEditor/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603884054160" />
+    <state x="1024" y="567" key="cloudConfig.PluginsDialog" timestamp="1603882697396">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state x="1024" y="567" key="cloudConfig.PluginsDialog/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603882697396" />
+    <state x="1161" y="567" key="cloudConfig.SelfSettingsDialog" timestamp="1603883329416">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state x="1161" y="567" key="cloudConfig.SelfSettingsDialog/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603883329416" />
+    <state x="945" y="340" width="670" height="676" key="search.everywhere.popup" timestamp="1603882674658">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state x="945" y="340" width="670" height="676" key="search.everywhere.popup/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603882674658" />
+  </component>
+</project>
